@@ -1,0 +1,4 @@
+// get current timestamp
+    var date = new Date();
+    var timestamp = date.getTime();
+    Date.now()
